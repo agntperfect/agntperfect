@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agntperfect&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agntperfect)
 
 
 ![Abhishek GitHub stats](https://github-readme-stats.vercel.app/api?username=agntperfect&show_icons=true)

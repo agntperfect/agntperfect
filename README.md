@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @agntperfect
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning php
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agntperfect&layout=compact)
+
 
 ![Abhishek GitHub stats](https://github-readme-stats.vercel.app/api?username=agntperfect&show_icons=true)
 

@@ -11,7 +11,7 @@ My domain of preference is Systems Engineering.
  
  - Majorly self taught , super passionate about computers in general :)) :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
- - I have not drank a single cup of coffee or tea and I plan remain caffeine sober xD :coffee:
+ - I have drank a single cup of coffee or tea and I plan remain caffeine xD :coffee:
  - 18 years old :one::eight:
  - Studying +2 in GoldenGate Int'l College 🎓
 <hr>

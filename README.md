@@ -51,7 +51,8 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 [instagram]: https://www.instagram.com/agntperfect
 [email]: mailto:contact@abhishekkharel.com.np
 <br> <br>
-Old ID: (Abhishek Kharel)[https://github.com/AgentPerfect10]
+
+https://github.com/AgentPerfect10
 
 
 <h2> Commit Graph : </h2>

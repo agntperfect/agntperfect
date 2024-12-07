@@ -47,10 +47,12 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 
-
+[linkedin]: https://www.linkedin.com/in/abhishekkharel/
 [instagram]: https://www.instagram.com/agntperfect
 [email]: mailto:contact@abhishekkharel.com.np
 <br> <br>
+Old ID: (Abhishek Kharel)[https://github.com/AgentPerfect10]
+
 
 <h2> Commit Graph : </h2>
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=agntperfect&theme=github"/>

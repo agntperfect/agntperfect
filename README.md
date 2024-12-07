@@ -6,14 +6,16 @@ You have reached my GitHub Dashboard. I need to flex a little so under these lin
 Feel free to go through my repo and star ones u like :)) . Currently I am working on my problem solving skills and build cool, stable, fast and scalable applications!
 
 My domain of preference is Systems Engineering.
+VISITS: [https://www.abhishekkharel.com.np](https://www.abhishekkharel.com.np)
  
  <h2>Few things intresting about me:</h2>
  
  - Majorly self taught , super passionate about computers in general :)) :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  - I have drank a single cup of coffee or tea and I plan remain caffeine xD :coffee:
- - 18 years old :one::eight:
- - Studying +2 in GoldenGate Int'l College 🎓
+ - 19 years old :one::eight:
+ - Studied +2 in GoldenGate Int'l College 🎓
+ - Studying Electrical Engineering on Pulchowk Campus, IOE
 <hr>
 
 <h3> Languages I use to build thing : </h3>

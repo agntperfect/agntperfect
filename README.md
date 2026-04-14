@@ -48,18 +48,11 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agntperfect&theme=github_dark&utcOffset=8" />
 
 <h2> Connect with me: </h2>
-
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
-[<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png"/>][linkedin]
-[linkedin]: https://www.linkedin.com/in/abhishekkharel/
-[instagram]: https://www.instagram.com/agntperfect
-[email]: mailto:contact@abhishekkharel.com.np
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/on_2001_09_11) 
+<a href="mailto:contact@abhishekkharel.com.np"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
+[![Linkedin](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/abhishekkharel/)
 <br> <br>
 
-https://github.com/AgentPerfect10
+Another Github Account: [AgentPerfect10](https://github.com/AgentPerfect10)
 
-
-<h2> Commit Graph : </h2>
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=agntperfect&theme=github"/>
 <!--**agntperfect/agntperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

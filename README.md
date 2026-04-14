@@ -26,9 +26,9 @@ VISITS: [https://www.abhishekkharel.com.np](https://www.abhishekkharel.com.np)
 <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+
 
 <br><br>
 Does not mean I can't code in other languages pretty well , google ftw xD<br>

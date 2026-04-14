@@ -13,9 +13,11 @@ VISITS: [https://www.abhishekkharel.com.np](https://www.abhishekkharel.com.np)
  - Majorly self taught , super passionate about computers in general :)) :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  - I have drank a single cup of coffee or tea and I plan remain caffeine xD :coffee:
- - 19 years old 1️⃣9️⃣
- - Studied +2 in GoldenGate Int'l College 🎓
+ - 20 years old 2️⃣0️⃣
+ - Winner of National Hack-A-Week Winner 2026 (E-Governace Category)
  - Studying Electrical Engineering on Pulchowk Campus, IOE
+ - Studied +2 in GoldenGate Int'l College 🎓
+ 
 <hr>
 
 <h3> Languages I use to build thing : </h3>
@@ -25,6 +27,9 @@ VISITS: [https://www.abhishekkharel.com.np](https://www.abhishekkharel.com.np)
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"/>
+
 <br><br>
 Does not mean I can't code in other languages pretty well , google ftw xD<br>
 

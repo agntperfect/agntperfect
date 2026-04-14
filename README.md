@@ -48,9 +48,15 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agntperfect&theme=github_dark&utcOffset=8" />
 
 <h2> Connect with me: </h2>
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/on_2001_09_11) 
-<a href="mailto:contact@abhishekkharel.com.np"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
-[![Linkedin](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/abhishekkharel/)
+<a href="https://www.instagram.com/on_2001_09_11">
+  <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram">
+</a>
+<a href="mailto:contact@abhishekkharel.com.np">
+  <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/abhishekkharel/">
+  <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="LinkedIn">
+</a>
 <br> <br>
 
 Another Github Account: [AgentPerfect10](https://github.com/AgentPerfect10)

@@ -51,7 +51,7 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
-
+[<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/abhishekkharel/
 [instagram]: https://www.instagram.com/agntperfect
 [email]: mailto:contact@abhishekkharel.com.np
